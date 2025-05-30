@@ -8,8 +8,5 @@
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@daniiellmd" height="20" width="30" /></a><a href="https://twitter.com/@daniiellmd" target="blank">:)
 </p>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielmdn_" height="20" width="30" /></a><a href="https://instagram.com/danielmdn_" target="blank">Thanks !!
-</p>
 
 ![fiummbaa](https://github.com/qDark/qDark/assets/103046244/7f939661-d014-4f2b-8a18-1d129460ed2b)
