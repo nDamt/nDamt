@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@daniiellmd" height="20" width="30" /></a><a href="https://twitter.com/@daniiellmd" target="blank">:)
+<a href="https://www.linkedin.com/in/daniel-medinat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="here pls" height="30" width="40" /></a>
 </p>
 
 ![fiummbaa](https://github.com/qDark/qDark/assets/103046244/7f939661-d014-4f2b-8a18-1d129460ed2b)
